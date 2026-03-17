@@ -5,4 +5,4 @@ I have updated the repository.
 Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
 Updating
 Changing repo
-[Click here to view the image](https://github.com/Rakshanda-kale/LocalRepo/blob/main/image.png)
+This site was built using [GitHub Pages](https://github.com/Rakshanda-kale/LocalRepo/blob/main/image.png).
